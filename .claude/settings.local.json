@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vite --host)",
+      "Bash(npx vite)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.odoo.com)",
+      "WebFetch(domain:spilymp.github.io)",
+      "WebFetch(domain:www.cybrosys.com)",
+      "WebFetch(domain:codepen.io)",
+      "Bash(dir:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(npx vite build)",
+      "Bash(npm run:*)",
+      "Bash(gh auth:*)"
+    ]
+  }
+}
